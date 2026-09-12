@@ -1,0 +1,24 @@
+{
+  "name": "css-learning",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "npx @tailwindcss/cli -i ./input.css -o ./dist/output.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vettre-init/css.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vettre-init/css/issues"
+  },
+  "homepage": "https://github.com/Vettre-init/css#readme",
+  "description": "",
+  "devDependencies": {
+    "tailwindcss": "^4.3.3"
+  }
+}
